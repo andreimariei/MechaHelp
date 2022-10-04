@@ -1,4 +1,4 @@
-# Licenta
+# MechaHelp
 
 A new Flutter project.
 
